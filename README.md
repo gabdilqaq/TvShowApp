@@ -9,7 +9,7 @@ A simple project for watching and reading information about tv shows from the TV
 
 ## Structure of App
 
-There are page with three recycler view for wathing the list of tv shows.
+There are page with three recycler view for watсhing the list of tv shows.
 
 
 ## Demo
